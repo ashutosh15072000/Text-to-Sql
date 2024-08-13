@@ -5,8 +5,8 @@ This project empowers you to translate natural language queries into correspondi
 ![](text_to_sql.jpg)
 
 ## Explaination of Query
-![](explaination_1.jpg)
-![](explaination_2.jpg)
+![](IMG/explaination_1.jpg)
+![](IMG/explaination_2.jpg)
 
 
 ## Key Features
