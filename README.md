@@ -2,7 +2,7 @@
 
 This project empowers you to translate natural language queries into corresponding SQL queries, leveraging the power of Google's advanced Generative AI model, Gemini Pro. This enables intuitive and user-friendly interaction with your SQL databases.
 
-![](text_to_sql.jpg)
+![](IMG/text_to_sql.jpg)
 
 ## Explaination of Query
 ![](IMG/explaination_1.jpg)
